@@ -1,2 +1,2 @@
-# codelithic.io
-codelithic.io
+# codelithic.com
+codelithic.com
